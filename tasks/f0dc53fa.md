@@ -1,8 +1,8 @@
 ---
 id: "f0dc53fa"
 title: "Write README"
-status: done
+status: open
 created: 2026-05-30T19:40:42
-done: 2026-05-30T19:48:05
+done: 
 owner: "peter-olofsson"
 ---
